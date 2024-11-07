@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tconstruct:small_earth_slime_crystal_bud",
+    "tconstruct:medium_earth_slime_crystal_bud",
+    "tconstruct:large_earth_slime_crystal_bud",
+    "tconstruct:earth_slime_crystal_cluster"
+  ]
+}

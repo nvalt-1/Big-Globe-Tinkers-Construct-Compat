@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "tconstruct:earth_slime_island",
+  "biomes": "#bigglobe:tconstruct/islands/earthslime"
+}

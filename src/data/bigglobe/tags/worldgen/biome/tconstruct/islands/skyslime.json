@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#bigglobe:wet",
+    "#bigglobe:beach",
+    "#bigglobe:wasteland",
+    "#bigglobe:forest"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tconstruct:small_ichor_slime_crystal_bud",
+    "tconstruct:medium_ichor_slime_crystal_bud",
+    "tconstruct:large_ichor_slime_crystal_bud",
+    "tconstruct:ichor_slime_crystal_cluster"
+  ]
+}

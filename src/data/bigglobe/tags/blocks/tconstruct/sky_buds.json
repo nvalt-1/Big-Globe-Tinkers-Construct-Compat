@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tconstruct:small_sky_slime_crystal_bud",
+    "tconstruct:medium_sky_slime_crystal_bud",
+    "tconstruct:large_sky_slime_crystal_bud",
+    "tconstruct:sky_slime_crystal_cluster"
+  ]
+}

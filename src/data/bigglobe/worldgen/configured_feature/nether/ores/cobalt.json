@@ -1,0 +1,11 @@
+{
+  "type": "bigglobe:ore",
+  "config": {
+    "seed": "cobalt",
+    "blocks": {
+      "minecraft:netherrack": "tconstruct:cobalt_ore"
+    },
+    "chance": "0.25L",
+    "radius": { "type": "bigglobe:average", "min": 2.0, "max": 4.0, "average": 2.5 }
+  }
+}

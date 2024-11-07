@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "tconstruct:blood_island",
+  "biomes": "#bigglobe:tconstruct/islands/blood"
+}

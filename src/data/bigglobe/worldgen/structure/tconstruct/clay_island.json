@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "tconstruct:clay_island",
+  "biomes": "#bigglobe:tconstruct/islands/clay"
+}
